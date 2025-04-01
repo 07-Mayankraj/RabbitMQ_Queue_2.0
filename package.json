@@ -1,0 +1,19 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "amqplib": "^0.10.5",
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "fast-csv": "^5.0.2",
+    "pm2": "^6.0.5"
+  }
+}
